@@ -1,0 +1,16 @@
+img {
+    height: 400px;
+}
+
+.container {
+    width: 80%;
+    text-align: center;}
+
+footer {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    /* margin: 20px 50px; */
+    background: darkgray;
+  }
